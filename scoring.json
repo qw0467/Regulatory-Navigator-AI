@@ -1,0 +1,25 @@
+
+{
+  "default_weight": 2,
+  "partial_multiplier": 0.4,
+  "weights": {
+    "data_residency": 10,
+    "primary_data_environment": 10,
+    "foreign_data_transfer": 10,
+    "minimum_capital_psp": 10,
+    "minimum_capital_p2p": 10,
+    "minimum_capital_wealth": 10,
+    "compliance_officer": 10,
+    "aml_policy": 8,
+    "transaction_monitoring": 8,
+    "str_reporting": 8,
+    "cdd_enhanced": 5,
+    "source_of_funds": 5,
+    "key_personnel": 5,
+    "corporate_structure": 5,
+    "data_consent": 3,
+    "third_party_consent": 3,
+    "privacy_policy": 3,
+    "licensing_category": 3
+  }
+}

@@ -1,0 +1,16 @@
+
+{
+  "data_residency": "Your policy must explicitly state that all PII and transactional data are stored on servers physically located within the State of Qatar (Article 2.1.1). Mentions of foreign cloud providers (AWS, Azure, etc.) without this specific carve-out are non-compliant.",
+  "primary_data_environment": "Your primary data environment for PII, SPI, and SFI must reside in Qatar (Article 7.6). You must re-architect your solution to ensure this or seek explicit QCB approval.",
+  "foreign_data_transfer": "You must not transfer personal or financial data to a foreign jurisdiction without explicit QCB approval (Article 15.1). Your policy must state this limitation.",
+  "compliance_officer": "You must formally appoint a designated, independent Compliance Officer. Their CV and credentials must be submitted to the QCB for approval prior to licensing (Article 2.2.1).",
+  "minimum_capital_psp": "The business plan must clearly state and provide evidence of a minimum regulatory capital of QAR 5,000,000 for a Category 1 (PSP) license (Article 1.2.1).",
+  "minimum_capital_p2p": "The business plan must clearly state and provide evidence of a minimum regulatory capital of QAR 7,500,000 for a Category 2 (P2P) license (Article 1.2.2).",
+  "minimum_capital_wealth": "The business plan must clearly state and provide evidence of a minimum regulatory capital of QAR 4,000,000 for a Category 3 (Wealth) license (Article 1.2.3).",
+  "aml_policy": "A comprehensive, Board-approved AML/CFT Policy must be submitted. It must clearly outline transaction monitoring rules and procedures (Article 1.1.4).",
+  "transaction_monitoring": "Your policy must detail the automated transaction monitoring system you will deploy, including how it identifies suspicious patterns, velocity, and deviations (Article 1.2.1).",
+  "str_reporting": "Your AML policy must include the procedure for filing Suspicious Transaction Reports (STRs) with Qatari authorities within 48 hours of detection (Article 1.2.2).",
+  "cdd_enhanced": "Your AML policy must detail the specific Enhanced Customer Due Diligence (CDD) procedures for any user transacting more than QAR 10,000 per month (Article 1.1.1).",
+  "source_of_funds": "Your policy must specify that for high-risk customers or transactions over QAR 50,000, verified documentation for source of funds/wealth will be obtained (Article 1.1.2).",
+  "key_personnel": "The document must include an organizational chart and reference the submission of CVs and police clearance certificates for all Board Members, the CEO, and the Compliance Officer (Article 2.1.1)."
+}

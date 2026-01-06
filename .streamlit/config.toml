@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="#8a1538"
+.stApp {
+    background-image: url('background.jpg');  
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
